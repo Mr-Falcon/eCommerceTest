@@ -3,6 +3,11 @@ This is an attempt to make an eCommerce Web App for learning purposes. <br />
 <br />
 <br />
 <br />
+HTTPS:  https://github.com/Mr-Falcon/eCommerceTest.git
+SSH:    git@github.com:Mr-Falcon/eCommerceTest.git
+<br />
+<br />
+<br />
 …create a new repository on the command line. <br />
 echo "# eCommerceTest" >> README.md <br />
   git init <br />
